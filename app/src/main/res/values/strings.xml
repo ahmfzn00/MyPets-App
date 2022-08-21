@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CRUD Peliharaan</string>
+    <string name="gender_unknown">Tidak Diketahui</string>
+    <string name="gender_male">Jantan</string>
+    <string name="gender_female">Betina</string>
+    
+</resources>
